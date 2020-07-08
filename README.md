@@ -5,21 +5,8 @@
 	<meta name="author" content="YO3GFH, Adrian Petrila" />
 	<meta name="keywords" content="c, pascal, pelle, lazarus, arduino, icom, 7300, sdl, pong, keyer, cw, portable, executable, task, manager, process, viewer" />
 	<meta name=”robots” content=”index, follow” />
-	<title>YO3GFH GitHub Projects</title>
 </head>
 <body bgcolor=#fafaeb>
-<style>
-	a:link {text-decoration: none; color: #0000cc}
-	a:visited {text-decoration: none; color: #0000cc}
-	a:active {text-decoration: none; color: #990000}
-	a:hover {text-decoration: underline; color: #000000}
-
-	body {
-		font-family: arial, sans-serif;
-		font-size: 8pt;
-	}
-
-</style>
 <table align="center" cellspacing="0" cellpadding="0" border="0" width="90%" height="90%">
 	<tr><td align="center">
 	<table cellspacing="5" border="0">
