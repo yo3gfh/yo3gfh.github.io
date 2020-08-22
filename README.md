@@ -1,9 +1,9 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta name="description" CONTENT="YO3GFH projects on github. C with arduino and pelle c compiler, pascal with lazarus, portable executable, task manager, process viewer" />
+	<meta name="description" CONTENT="YO3GFH projects on github. C with arduino and pelle c compiler, pascal with lazarus, portable executable, task manager, process viewer, text editor" />
 	<meta name="author" content="YO3GFH, Adrian Petrila" />
-	<meta name="keywords" content="c, pascal, pelle, lazarus, arduino, icom, 7300, sdl, pong, keyer, cw, portable, executable, task, manager, process, viewer" />
+	<meta name="keywords" content="c, pascal, pelle, lazarus, arduino, icom, 7300, sdl, pong, keyer, cw, portable, executable, task, manager, process, viewer, unicode, editor" />
 	<meta name=”robots” content=”index, follow” />
 </head>
 <body bgcolor=#fafaeb>
@@ -23,6 +23,7 @@
 		<tr><td align="center"><a href="https://yo3gfh.github.io/pehlp32/">PEHLP32 - Portable Executable helper library developed with Pelle C compiler</a></td></tr>
 		<tr><td align="center"><a href="https://yo3gfh.github.io/procview/">PROCVIEW - simple task manager developed with Pelle C compiler</a></td></tr>
 		<tr><td align="center"><a href="https://yo3gfh.github.io/mp3pl/">MP3PL - small mp3 and flac player developed with Pelle C compiler and the BASS library</a></td></tr>
+        <tr><td align="center"><a href="https://yo3gfh.github.io/textedit/">TEXTEDIT - a somehow souped-up text editor with UNICODE support developed with Pelle C compiler</a></td></tr>
 	</table>
 </td></tr>
 </table>
