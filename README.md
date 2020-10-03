@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta name="description" CONTENT="YO3GFH projects on github. C with arduino and pelle c compiler, pascal with lazarus, portable executable, task manager, process viewer, text editor" />
+	<meta name="description" CONTENT="YO3GFH projects on github. C with arduino and pelle c compiler, pascal with lazarus, portable executable, task manager, process viewer, text editor, plugin" />
 	<meta name="author" content="YO3GFH, Adrian Petrila" />
 	<meta name="keywords" content="c, pascal, pelle, lazarus, arduino, icom, 7300, sdl, pong, keyer, cw, portable, executable, task, manager, process, viewer, unicode, editor" />
 	<meta name=”robots” content=”index, follow” />
