@@ -24,7 +24,9 @@
 		<tr><td align="center"><a href="https://yo3gfh.github.io/procview/">PROCVIEW - simple task manager developed with Pelle C compiler</a></td></tr>
 		<tr><td align="center"><a href="https://yo3gfh.github.io/mp3pl/">MP3PL - small mp3 and flac player developed with Pelle C compiler and the BASS library</a></td></tr>
         <tr><td align="center"><a href="https://yo3gfh.github.io/textedit/">TEXTEDIT - a somehow souped-up text editor with UNICODE support developed with Pelle C compiler</a></td></tr>
-       <tr><td align="center"><a href="https://yo3gfh.github.io/ccomment/">CCOMMENT - a plugin for Pelle's C IDE, inserts a function synopsis at cursor, exports functions as  prototypes to a separate header</a></td></tr>
+       <tr><td align="center"><a href="https://yo3gfh.github.io/ccomment/">CCOMMENT - a plugin for Pelle's C IDE, inserts a function synopsis at cursor, exports functions as  prototypes to a separate header</a>
+</td></tr>
+	<tr><td align="center"><a href="https://yo3gfh.github.io/xwinver/">XWINVER - simple Windows OS version detection (in)utility developed with Pelle C compiler</a></td></tr>
 	</table>
 </td></tr>
 </table>
