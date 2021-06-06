@@ -27,6 +27,7 @@
        <tr><td align="center"><a href="https://yo3gfh.github.io/ccomment/">CCOMMENT - a plugin for Pelle's C IDE, inserts a function synopsis at cursor, exports functions as  prototypes to a separate header</a>
 </td></tr>
 	<tr><td align="center"><a href="https://yo3gfh.github.io/xwinver/">XWINVER - simple Windows OS version detection (in)utility developed with Pelle C compiler</a></td></tr>
+	<tr><td align="center"><a href="https://yo3gfh.github.io/cpypath/">CPYPATH - MS Windows Explorer shell extension, copies selected file(s) full path to clipboard, developed with Pelle C compiler</a></td></tr>
 	</table>
 </td></tr>
 </table>
