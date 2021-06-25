@@ -28,6 +28,7 @@
 </td></tr>
 	<tr><td align="center"><a href="https://yo3gfh.github.io/xwinver/">XWINVER - simple Windows OS version detection (in)utility developed with Pelle C compiler</a></td></tr>
 	<tr><td align="center"><a href="https://yo3gfh.github.io/cpypath/">CPYPATH - MS Windows Explorer shell extension, copies selected file(s) full path to clipboard, developed with Pelle C compiler</a></td></tr>
+	<tr><td align="center"><a href="https://yo3gfh.github.io/hdid/">HDID - MS Windows storage media ID application, developed with Pelle C compiler</a></td></tr>
 	</table>
 </td></tr>
 </table>
