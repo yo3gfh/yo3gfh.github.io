@@ -3,7 +3,7 @@
 	<meta charset="utf-8" />
 	<meta name="description" CONTENT="YO3GFH projects on github. C with arduino and pelle c compiler, pascal with lazarus, portable executable, task manager, process viewer, text editor, plugin" />
 	<meta name="author" content="YO3GFH, Adrian Petrila" />
-	<meta name="keywords" content="c, pascal, pelle, lazarus, arduino, icom, 7300, sdl, pong, keyer, cw, portable, executable, task, manager, process, viewer, unicode, editor" />
+	<meta name="keywords" content="c, pascal, pelle, lazarus, arduino, icom, 7300, sdl, pong, keyer, cw, portable, executable, task, manager, process, viewer, unicode, editor, folders, size" />
 	<meta name=”robots” content=”index, follow” />
 </head>
 <body bgcolor=#fafaeb>
@@ -29,6 +29,7 @@
 	<tr><td align="center"><a href="https://yo3gfh.github.io/xwinver/">XWINVER - simple Windows OS version detection (in)utility developed with Pelle C compiler</a></td></tr>
 	<tr><td align="center"><a href="https://yo3gfh.github.io/cpypath/">CPYPATH - MS Windows Explorer shell extension, copies selected file(s) full path to clipboard, developed with Pelle C compiler</a></td></tr>
 	<tr><td align="center"><a href="https://yo3gfh.github.io/hdid/">HDID - MS Windows storage media ID application, developed with Pelle C compiler</a></td></tr>
+	<tr><td align="center"><a href="https://yo3gfh.github.io/wfsize/">WFSIZE - MS Windows folder/subfolder size calculator, developed with Pelle C compiler</a></td></tr>
 	</table>
 </td></tr>
 </table>
